@@ -1,0 +1,14 @@
+{
+  "name": "reuven-bot",
+  "version": "0.0.0",
+  "description": "A bot to reply as reuven from eretz nehederet",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matan Goldman",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "botkit": "^0.2.0"
+  }
+}
